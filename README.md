@@ -1,8 +1,8 @@
-# Ovation P-56FC2
+# Ovation P-56FC-2
 
 ## Software Versions
 
-[V1.0.0 - Ovation P56FC2](https://github.com/Chauvet-Pro/OVATIONP56FC2/blob/b27dfd604faea272e719171625a147a9ae64999a/Firmware/V1.0.0.zip)
+[V1.0.0 - Ovation P-56FC-2](https://github.com/Chauvet-Pro/OVATIONP56FC2/blob/b27dfd604faea272e719171625a147a9ae64999a/Firmware/V1.0.0.zip)
 - Released software version
 
 &nbsp;
